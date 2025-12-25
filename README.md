@@ -48,23 +48,6 @@ Without structured analysis, decision-making around pricing, product mix, and re
 * **DAX** – Time intelligence and KPI calculations
 * **Excel / CSV** – Source data format
 
-## Project Structure
-
-Retail-Sales-Analysis/
-│
-├── SQL/
-│   ├── data_preparation.sql
-│   ├── revenue_profit_analysis.sql
-│   ├── discount_impact.sql
-│
-├── PowerBI/
-│   └── Retail_Sales_Analysis.pbix
-│
-├── Report/
-│   └── Retail_Sales_Analysis_Report.pdf
-│
-└── README.md
-
 ## SQL Analysis Highlights
 
 * Revenue and profit aggregation by month and year
